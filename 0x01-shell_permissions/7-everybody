@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 551 hello
+chmod -f 551 hello
